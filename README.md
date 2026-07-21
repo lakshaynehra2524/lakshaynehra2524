@@ -131,16 +131,7 @@ lakshay:
 </picture>
 </div>
 
-<details>
-<summary><sub>⚙️ this snake animation needs a one-time GitHub Action — click for the 2-minute setup</sub></summary>
-
-<br/>
-
-1. In your `lakshaynehra2524/lakshaynehra2524` repo, create `.github/workflows/snake.yml`
-2. Paste in the official [`Platane/snk`](https://github.com/Platane/snk) action (generates the SVG on a schedule and commits it to an `output` branch)
-3. Push once — GitHub Actions will render the snake automatically from then on
-
-</details>
+<sub>⚙️ powered by the GitHub Action in <code>.github/workflows/snake.yml</code> — see <a href="./SETUP.md">SETUP.md</a> for the one-time activation steps</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&width=100%" width="100%"/>
 
